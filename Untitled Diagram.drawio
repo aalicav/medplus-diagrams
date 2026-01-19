@@ -7,6 +7,21 @@
         <mxCell id="2XIVaXTtwW9zqu_hh5Zp-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Paciente" vertex="1">
           <mxGeometry height="60" width="30" x="70" y="60" as="geometry" />
         </mxCell>
+        <mxCell id="sq3BcdgLzXSgy-FLRmfD-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Profissional&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="70" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sq3BcdgLzXSgy-FLRmfD-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Administrador&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="70" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="sq3BcdgLzXSgy-FLRmfD-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="TI" vertex="1">
+          <mxGeometry height="60" width="30" x="70" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="sq3BcdgLzXSgy-FLRmfD-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Gerente" vertex="1">
+          <mxGeometry height="60" width="30" x="180" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sq3BcdgLzXSgy-FLRmfD-10" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Atendente&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="180" y="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
