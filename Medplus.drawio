@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="7Xn1WmaZudrOgZ8ZJvGA">
-    <mxGraphModel dx="1426" dy="1847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="1979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-wkKWd4jR1gBgqmAaKTf-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Realizar login" vertex="1">
-          <mxGeometry height="70" width="140" x="250" y="70" as="geometry" />
+          <mxGeometry height="70" width="140" x="720" y="-360" as="geometry" />
         </mxCell>
         <mxCell id="-wkKWd4jR1gBgqmAaKTf-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ver o histórico de consultas" vertex="1">
           <mxGeometry height="70" width="140" x="40" y="220" as="geometry" />
@@ -44,13 +44,13 @@
           <mxGeometry height="70" width="140" x="230" y="200" as="geometry" />
         </mxCell>
         <mxCell id="-wkKWd4jR1gBgqmAaKTf-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fazer check-in" vertex="1">
-          <mxGeometry height="70" width="140" x="140" y="-40" as="geometry" />
+          <mxGeometry height="70" width="140" x="70" y="-190" as="geometry" />
         </mxCell>
         <mxCell id="-wkKWd4jR1gBgqmAaKTf-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fazer check-out" vertex="1">
-          <mxGeometry height="70" width="140" x="300" y="-90" as="geometry" />
+          <mxGeometry height="70" width="140" x="160" y="-290" as="geometry" />
         </mxCell>
         <mxCell id="-wkKWd4jR1gBgqmAaKTf-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Realizar solicitação de consulta" vertex="1">
-          <mxGeometry height="70" width="140" x="570" y="460" as="geometry" />
+          <mxGeometry height="70" width="140" x="720" y="630" as="geometry" />
         </mxCell>
         <mxCell id="-wkKWd4jR1gBgqmAaKTf-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ver débitos" vertex="1">
           <mxGeometry height="70" width="140" x="70" y="430" as="geometry" />
@@ -61,20 +61,20 @@
         <mxCell id="5AeqDHBE5N4rcLIdxb1F-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Dar baixa no&amp;nbsp;&lt;div&gt;pagamento&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="140" x="70" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="5AeqDHBE5N4rcLIdxb1F-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ver lista de medicos" vertex="1">
-          <mxGeometry height="70" width="140" x="260" y="550" as="geometry" />
+        <mxCell id="5AeqDHBE5N4rcLIdxb1F-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Consultar médico" vertex="1">
+          <mxGeometry height="70" width="140" x="470" y="750" as="geometry" />
         </mxCell>
         <mxCell id="5AeqDHBE5N4rcLIdxb1F-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Cadastrar médico" vertex="1">
-          <mxGeometry height="70" width="140" x="460" y="550" as="geometry" />
+          <mxGeometry height="70" width="140" x="480" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="5AeqDHBE5N4rcLIdxb1F-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Deletar médico" vertex="1">
-          <mxGeometry height="70" width="140" x="930" y="380" as="geometry" />
+        <mxCell id="5AeqDHBE5N4rcLIdxb1F-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Suspender médico" vertex="1">
+          <mxGeometry height="70" width="140" x="470" y="530" as="geometry" />
         </mxCell>
         <mxCell id="5AeqDHBE5N4rcLIdxb1F-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Cancelar consulta" vertex="1">
           <mxGeometry height="70" width="140" x="910" y="230" as="geometry" />
         </mxCell>
         <mxCell id="5AeqDHBE5N4rcLIdxb1F-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fazer reembolso" vertex="1">
-          <mxGeometry height="70" width="140" x="970" y="-90" as="geometry" />
+          <mxGeometry height="70" width="140" x="210" y="480" as="geometry" />
         </mxCell>
         <mxCell id="5AeqDHBE5N4rcLIdxb1F-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Consultar dados do Paciente" vertex="1">
           <mxGeometry height="80" width="140" x="680" y="-80" as="geometry" />
