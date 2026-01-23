@@ -46,6 +46,16 @@
         <mxCell id="9geNnfCQhqsJ82oCz8wW-14" edge="1" parent="9geNnfCQhqsJ82oCz8wW-7" source="9geNnfCQhqsJ82oCz8wW-9" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" target="9geNnfCQhqsJ82oCz8wW-10" value="&lt;&lt;include&gt;&gt;">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UIlmMuKYjuY8hEjTaSmF-2" edge="1" parent="9geNnfCQhqsJ82oCz8wW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.368;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;" target="UIlmMuKYjuY8hEjTaSmF-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="473" />
+              <mxPoint x="180" y="-78" />
+            </Array>
+            <mxPoint x="680" y="473.4200000000001" as="sourcePoint" />
+            <mxPoint x="130" y="-79.99687604822327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9geNnfCQhqsJ82oCz8wW-15" parent="1" style="shape=swimlane;horizontal=0;startSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Apoio (Farmácia/Lab)" vertex="1">
           <mxGeometry height="300" width="300" x="1190" y="900" as="geometry" />
         </mxCell>
@@ -67,24 +77,27 @@
         <mxCell id="9geNnfCQhqsJ82oCz8wW-21" parent="9geNnfCQhqsJ82oCz8wW-18" style="ellipse;whiteSpace=wrap;html=1;" value="Auditar Prontuários" vertex="1">
           <mxGeometry height="60" width="120" x="90" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="9geNnfCQhqsJ82oCz8wW-22" edge="1" parent="9geNnfCQhqsJ82oCz8wW-18" source="9geNnfCQhqsJ82oCz8wW-19" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" target="9geNnfCQhqsJ82oCz8wW-20" value="&lt;&lt;include&gt;&gt;">
+        <mxCell id="9geNnfCQhqsJ82oCz8wW-22" edge="1" parent="9geNnfCQhqsJ82oCz8wW-18" source="9geNnfCQhqsJ82oCz8wW-19" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" target="9geNnfCQhqsJ82oCz8wW-20" value="&amp;lt;&amp;lt;extended&amp;gt;&amp;gt;">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9geNnfCQhqsJ82oCz8wW-23" parent="1" style="shape=swimlane;horizontal=0;startSize=20;fillColor=#f5f5f5;strokeColor=#666666;" value="Segurança" vertex="1">
           <mxGeometry height="180" width="400" x="730" y="660" as="geometry" />
         </mxCell>
         <mxCell id="9geNnfCQhqsJ82oCz8wW-24" parent="9geNnfCQhqsJ82oCz8wW-23" style="ellipse;whiteSpace=wrap;html=1;" value="Realizar Login" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="50" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="10" as="geometry" />
         </mxCell>
         <mxCell id="9geNnfCQhqsJ82oCz8wW-25" parent="9geNnfCQhqsJ82oCz8wW-23" style="ellipse;whiteSpace=wrap;html=1;" value="Recuperar Senha" vertex="1">
-          <mxGeometry height="60" width="120" x="240" y="50" as="geometry" />
+          <mxGeometry height="60" width="120" x="260" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="9geNnfCQhqsJ82oCz8wW-26" edge="1" parent="9geNnfCQhqsJ82oCz8wW-23" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" value="&amp;lt;extend&amp;gt;">
+        <mxCell id="9geNnfCQhqsJ82oCz8wW-26" edge="1" parent="9geNnfCQhqsJ82oCz8wW-23" source="9geNnfCQhqsJ82oCz8wW-25" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="9geNnfCQhqsJ82oCz8wW-24" value="&amp;lt;extend&amp;gt;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="238.99999999999045" y="80" as="sourcePoint" />
             <mxPoint x="159.00000000000955" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UIlmMuKYjuY8hEjTaSmF-1" parent="9geNnfCQhqsJ82oCz8wW-23" style="ellipse;whiteSpace=wrap;html=1;" value="Gerenciar usuários" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="100" as="geometry" />
         </mxCell>
         <mxCell id="9geNnfCQhqsJ82oCz8wW-27" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Paciente" vertex="1">
           <mxGeometry height="80" width="40" x="350" y="970" as="geometry" />
